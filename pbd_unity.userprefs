@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/ToMenuScene.cs">
+    <Files>
+      <File FileName="Assets/script/player.cs" Line="58" Column="20" />
+      <File FileName="Assets/script/scoreBoardScript/playerScoreClass.cs" Line="47" Column="1" />
+      <File FileName="Assets/script/score1.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/movingCube3.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/movingCube4.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/movingCube1.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/movingCube2.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/ToSecondScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/score2.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/score3.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/ToLastScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/ToMenuScene.cs" Line="9" Column="25" />
+      <File FileName="Assets/script/scoreBoardScript/playerScoreUpdater.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/SettingMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/DEBUG1.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Kembali.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
